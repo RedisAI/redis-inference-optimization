@@ -108,10 +108,10 @@ Some languages already have client libraries that provide support for redis-infe
 
 | Project            | Language              | License      | Author                                           | URL                                                         |
 | -------            | --------              | -------      | ------                                           | ---                                                         |
-| JredisAI           | Java                  | BSD-3        | [RedisLabs](https://redislabs.com/)              | [Github](https://github.com/redis-inference-optimization/JRedisAI)               |
-| redisAI-py         | Python                | BSD-3        | [RedisLabs](https://redislabs.com/)              | [Github](https://github.com/redisAI/redisAI-py)             |
-| redisAI-go         | Go                    | BSD-3        | [RedisLabs](https://redislabs.com/)              | [Github](https://github.com/RedisAI/redisAI-go)             |
-| redisAI-js         | Typescript/Javascript | BSD-3        | [RedisLabs](https://redislabs.com/)              | [Github](https://github.com/redisAI/redisAI-js)             |
+| JredisAI           | Java                  | BSD-3        | [Redis](https://redis.io)                        | [Github](https://github.com/RedisAI/JRedisAI)               |
+| redisAI-py         | Python                | BSD-3        | [Redis](https://redis.io)                        | [Github](https://github.com/redisAI/redisAI-py)             |
+| redisAI-go         | Go                    | BSD-3        | [Redis](https://redis.io)                        | [Github](https://github.com/RedisAI/redisAI-go)             |
+| redisAI-js         | Typescript/Javascript | BSD-3        | [Redis](https://redis.io)                        | [Github](https://github.com/redisAI/redisAI-js)             |
 | redis-modules-sdk  | TypeScript            | BSD-3-Clause | [Dani Tseitlin](https://github.com/danitseitlin) | [Github](https://github.com/danitseitlin/redis-modules-sdk) |
 | redis-modules-java | Java                  | Apache-2.0   | [dengliming](https://github.com/dengliming)      | [Github](https://github.com/dengliming/redis-modules-java)  |
 | smartredis         | C++                   | BSD-2-Clause | [Cray Labs](https://github.com/CrayLabs)         | [Github](https://github.com/CrayLabs/SmartRedis)            |
